@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "name": "test",
+    "description": "i triad",
+    "type": "web",
+    "launch_path": "/index.html",
+    "icons": {
+        "56": "/assets7icon/kaios_56.png",
+        "112": "/assets7icon/kaios_112.png"
+    }
+   
+
+}
+
