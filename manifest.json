@@ -4,10 +4,7 @@
     "description": "i triad",
     "type": "web",
     "start_url": "/index.html",
-    "icons": {
-        "56": "/assets7icon/kaios_56.png",
-        "112": "/assets7icon/kaios_112.png"
-    },
+    "icons":[],
     "display":"fullscreen",
     "prefer_related_applications":true
 }
